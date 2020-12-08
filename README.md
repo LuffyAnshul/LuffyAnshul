@@ -3,7 +3,7 @@
 
 ## I'm a  Developer and Student!
 
-- 🔭 I’m currently working on **React Applications & Python Project** 
+- 🔭 I’m currently working on **React Applications & React Native Applications** 
 - 🌱 I’m currently **learning everything**
 - 🥅 2020 Goals: Contribute more projects
 - ⏳ Experimenting with **Machine Learning**
