@@ -11,8 +11,13 @@
 - ⚡ Fun fact: **I love to Innovate**
 - 📫 How to reach me: [Linkedin][linkedin]
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-
+<div style="display: flex, flex-direction: row">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="47%">
+  <div>
+    <h3>Check Youtube Channel</h3>
+    [Youtube][youtube]
+  <div>
+</div>
 
 
 
@@ -50,3 +55,4 @@
 
 [instagram]:https://www.instagram.com/lord_luffy_anshul/
 [linkedin]:https://www.linkedin.com/in/anshul-b-014a6592/
+[youtube]:https://www.youtube.com/channel/UCNOKxFLr8FmKJoy6Uneh55A
