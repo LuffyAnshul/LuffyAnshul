@@ -9,8 +9,8 @@
 - ⏳ Experimenting with **Machine Learning**
 - 💬 Ask me **something interesting**
 - ⚡ Fun fact: **I love to Innovate**
-- 📫 How to reach me: [Linkedin][linkedin]
-- 📺 Follow on Youtube for Latest Updates: [Youtube][youtube]
+- 📫 How to reach me: **[Linkedin][linkedin]**
+- 📺 Follow on Youtube for Latest Updates: **[Youtube][youtube]**
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="47%">
 
