@@ -48,6 +48,13 @@
 <br />
 <br />
 
+<a target="_blank" href="https://alfari16.vercel.app/medium/0"><img src="https://alfari16.vercel.app/medium/0" alt="Medium Index 0"></a>
+
+<a target="_blank" href="https://alfari16.vercel.app/medium/0"><img src="https://alfari16.vercel.app/medium/0" alt="Medium Index 0"></a>
+
+<a target="_blank" href="https://alfari16.vercel.app/medium/0"><img src="https://alfari16.vercel.app/medium/0" alt="Medium Index 0"></a>
+
+
 
 [instagram]:https://www.instagram.com/lord_luffy_anshul/
 [linkedin]:https://www.linkedin.com/in/anshul-b-014a6592/
