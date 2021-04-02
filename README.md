@@ -48,7 +48,13 @@
 <br />
 <br />
 
+## Medium Blogs:
+
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anshulborawake/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anshulborawake/0" alt="Recent Article 0"> 
+  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anshulborawake/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anshulborawake/1" alt="Recent Article 1"> 
+  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anshulborawake/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anshulborawake/2" alt="Recent Article 2"> 
 
 [instagram]:https://www.instagram.com/lord_luffy_anshul/
 [linkedin]:https://www.linkedin.com/in/anshul-b-014a6592/
