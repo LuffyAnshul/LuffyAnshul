@@ -48,11 +48,11 @@
 <br />
 <br />
 
-<a target="_blank" href="https://alfari16.vercel.app/medium/0"><img src="https://alfari16.vercel.app/medium/0" alt="Medium Index 0"></a>
+<a target="_blank" href="https://anshulborawake.vercel.app/medium/0"><img src="https://anshulborawake.vercel.app/medium/0" alt="Medium Index 0"></a>
 
-<a target="_blank" href="https://alfari16.vercel.app/medium/0"><img src="https://alfari16.vercel.app/medium/0" alt="Medium Index 0"></a>
+<a target="_blank" href="https://alfari16.vercel.app/medium/0"><img src="https://alfari16.vercel.app/medium/1" alt="Medium Index 0"></a>
 
-<a target="_blank" href="https://alfari16.vercel.app/medium/0"><img src="https://alfari16.vercel.app/medium/0" alt="Medium Index 0"></a>
+<a target="_blank" href="https://alfari16.vercel.app/medium/0"><img src="https://alfari16.vercel.app/medium/1" alt="Medium Index 0"></a>
 
 
 
